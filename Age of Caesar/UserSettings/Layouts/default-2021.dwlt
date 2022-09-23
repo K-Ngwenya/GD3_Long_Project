@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Console
+  m_Title: Game
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 42
+  controlID: 17
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -120,8 +120,8 @@ MonoBehaviour:
     y: 428
     width: 1157.6
     height: 294.8
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 101, y: 121}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 12}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 43
+  controlID: 25
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 44
+  controlID: 26
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,23 +317,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Units_&_AI
+    - Assets/StarterAssets/ThirdPersonController/Scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Units_&_AI
+  - Assets/StarterAssets/ThirdPersonController/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
     of Caesar
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2c650000
-    m_LastClickedID: 25900
-    m_ExpandedIDs: 000000005264000000ca9a3b
+    scrollPos: {x: 0, y: 226.20001}
+    m_SelectedIDs: f89a0000
+    m_LastClickedID: 39672
+    m_ExpandedIDs: 0000000046860000ba9a0000bc9a0000c29a0000c89a0000cc9a0000fe9a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -361,7 +361,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000052640000
+    m_ExpandedIDs: 0000000046860000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -386,8 +386,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs: e679ffff
+    m_LastClickedInstanceID: -34330
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
@@ -489,25 +489,25 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 1efbffff
+      m_SelectedIDs: 6abbffff
+      m_LastClickedID: -17558
+      m_ExpandedIDs: 6abbffffe0c1ffffdac8ffff30d2ffff9ceeffff04f1ffff78f2ffff3cf3ffff14fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Spawner
-        m_OriginalName: Spawner
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -5858
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 4}
+        m_ClientGUIView: {fileID: 11}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -740,9 +740,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -5.2899027, y: -0.46873093, z: 6.693392}
+    m_Target: {x: 0.044760242, y: -12.507306, z: -3.9109693}
     speed: 2
-    m_Value: {x: -5.2899027, y: -0.46873093, z: 6.693392}
+    m_Value: {x: 0.044760242, y: -12.507306, z: -3.9109693}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -768,7 +768,7 @@ MonoBehaviour:
         m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 0, y: 0}
+      m_Size: {x: 1, y: 1}
     yGrid:
       m_Fade:
         m_Target: 1
@@ -789,13 +789,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.20548534, y: 0.7491431, z: -0.27075347, w: -0.56855565}
+    m_Target: {x: 0.5982857, y: -0.033146456, z: 0.024782239, w: 0.80021363}
     speed: 2
-    m_Value: {x: -0.20548508, y: 0.74914217, z: -0.27075312, w: -0.5685549}
+    m_Value: {x: 0.59828556, y: -0.03314645, z: 0.024782233, w: 0.80021346}
   m_Size:
-    m_Target: 20.41308
+    m_Target: 13.16579
     speed: 2
-    m_Value: 20.41308
+    m_Value: 13.16579
   m_Ortho:
     m_Target: 0
     speed: 2
