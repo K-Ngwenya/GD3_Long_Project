@@ -6,8 +6,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637988363269447691
-    m_Hash: 3979996139
+      ticks: 637995448909292461
+    m_Hash: 3906589219
   m_LockFileStatus:
     m_FilePath: C:/Users/khaya/OneDrive - University of Witwatersrand/Desktop/LONG_PROJECT/Age
       of Caesar/Packages/packages-lock.json
@@ -15,8 +15,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637988363369110272
-    m_Hash: 3809199474
+      ticks: 637995448909462000
+    m_Hash: 514875422
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -25,6 +25,215 @@ m_ProjectPath: C:/Users/khaya/OneDrive - University of Witwatersrand/Desktop/LON
   of Caesar/Packages
 m_EditorVersion: 2021.3.6f1 (7da38d85baf6)
 m_ResolvedPackages:
+- packageId: com.unity.ai.navigation@1.0.0-exp.4
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0-exp.4
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.ai.navigation@1.0.0-exp.4
+  assetPath: Packages/com.unity.ai.navigation
+  name: com.unity.ai.navigation
+  displayName: AI Navigation
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: High-level NavMesh components for building and using NavMeshes at
+    runtime and at edit time.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0-exp.1
+    - 1.0.0-exp.2
+    - 1.0.0-exp.3
+    - 1.0.0-exp.4
+    - 1.1.0-pre.1
+    - 1.1.0-pre.2
+    compatible:
+    - 1.0.0-exp.1
+    - 1.0.0-exp.2
+    - 1.0.0-exp.3
+    - 1.0.0-exp.4
+    verified: 
+  dependencies:
+  - name: com.unity.modules.ai
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.ai
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637631812400000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.ai.navigation.git
+    revision: e38a28933e4513afa2b6084c2948852bd9daad56
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.unity.cinemachine@2.8.9
+  testable: 0
+  isDirectDependency: 1
+  version: 2.8.9
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.cinemachine@2.8.9
+  assetPath: Packages/com.unity.cinemachine
+  name: com.unity.cinemachine
+  displayName: Cinemachine
+  author:
+    name: 
+    email: 
+    url: 
+  category: cinematography
+  type: 
+  description: "Smart camera tools for passionate creators. \n\nNew starting from
+    2.7.1: Are you looking for the Cinemachine menu? It has moved to the GameObject
+    menu.\n\nIMPORTANT NOTE: If you are upgrading from the legacy Asset Store version
+    of Cinemachine, delete the Cinemachine asset from your project BEFORE installing
+    this version from the Package Manager."
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 2.1.11-beta.1
+    - 2.1.12
+    - 2.1.13
+    - 2.2.0
+    - 2.2.7
+    - 2.2.8
+    - 2.2.9
+    - 2.2.10-preview.3
+    - 2.2.10-preview.4
+    - 2.3.1
+    - 2.3.3
+    - 2.3.4
+    - 2.3.5-preview.3
+    - 2.4.0-preview.3
+    - 2.4.0-preview.4
+    - 2.4.0-preview.6
+    - 2.4.0-preview.7
+    - 2.4.0-preview.8
+    - 2.4.0-preview.9
+    - 2.4.0-preview.10
+    - 2.4.0
+    - 2.5.0
+    - 2.6.0-preview.2
+    - 2.6.0-preview.3
+    - 2.6.0-preview.5
+    - 2.6.0-preview.8
+    - 2.6.0
+    - 2.6.1-preview.6
+    - 2.6.1
+    - 2.6.2-preview.1
+    - 2.6.2
+    - 2.6.3-preview.2
+    - 2.6.3
+    - 2.6.4
+    - 2.6.5
+    - 2.6.9
+    - 2.6.10
+    - 2.6.11
+    - 2.6.14
+    - 2.6.15
+    - 2.6.17
+    - 2.7.1
+    - 2.7.2
+    - 2.7.3
+    - 2.7.4
+    - 2.7.5
+    - 2.7.8
+    - 2.7.9
+    - 2.8.0-exp.1
+    - 2.8.0-exp.2
+    - 2.8.0-pre.1
+    - 2.8.0
+    - 2.8.1
+    - 2.8.2
+    - 2.8.3
+    - 2.8.4
+    - 2.8.6
+    - 2.8.9
+    - 2.9.0-pre.1
+    - 2.9.0-pre.6
+    - 2.9.1
+    compatible:
+    - 2.8.6
+    - 2.8.9
+    - 2.9.0-pre.1
+    - 2.9.0-pre.6
+    - 2.9.1
+    verified: 2.8.9
+  dependencies:
+  - name: com.unity.test-framework
+    version: 1.1.31
+  resolvedDependencies:
+  - name: com.unity.test-framework
+    version: 1.1.31
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords:
+  - camera
+  - follow
+  - rig
+  - fps
+  - cinematography
+  - aim
+  - orbit
+  - cutscene
+  - cinematic
+  - collision
+  - freelook
+  - cinemachine
+  - compose
+  - composition
+  - dolly
+  - track
+  - clearshot
+  - noise
+  - framing
+  - handheld
+  - lens
+  - impulse
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637975495930000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.cinemachine.git
+    revision: 92bcde243d623d77c64960a552f29396770af1e1
+    path: 
+  unityLifecycle:
+    version: 2.8.6
+    nextVersion: 
 - packageId: com.unity.collab-proxy@1.15.18
   testable: 0
   isDirectDependency: 1
@@ -171,6 +380,234 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.15.18
     nextVersion: 
+- packageId: com.unity.entities@0.51.1-preview.21
+  testable: 0
+  isDirectDependency: 1
+  version: 0.51.1-preview.21
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.entities@0.51.1-preview.21
+  assetPath: Packages/com.unity.entities
+  name: com.unity.entities
+  displayName: Entities
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The Entities package provides a modern Entity Component System (ECS)
+    implementation with a basic set of systems and components made for Unity.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.0.12-preview.2
+    - 0.0.12-preview.4
+    - 0.0.12-preview.5
+    - 0.0.12-preview.6
+    - 0.0.12-preview.8
+    - 0.0.12-preview.11
+    - 0.0.12-preview.12
+    - 0.0.12-preview.13
+    - 0.0.12-preview.14
+    - 0.0.12-preview.15
+    - 0.0.12-preview.16
+    - 0.0.12-preview.17
+    - 0.0.12-preview.18
+    - 0.0.12-preview.19
+    - 0.0.12-preview.20
+    - 0.0.12-preview.21
+    - 0.0.12-preview.23
+    - 0.0.12-preview.24
+    - 0.0.12-preview.26
+    - 0.0.12-preview.27
+    - 0.0.12-preview.28
+    - 0.0.12-preview.29
+    - 0.0.12-preview.30
+    - 0.0.12-preview.31
+    - 0.0.12-preview.32
+    - 0.0.12-preview.33
+    - 0.1.0-preview
+    - 0.1.1-preview
+    - 0.2.0-preview.18
+    - 0.3.0-preview.4
+    - 0.4.0-preview.10
+    - 0.5.0-preview.17
+    - 0.5.1-preview.11
+    - 0.6.0-preview.24
+    - 0.7.0-preview.19
+    - 0.8.0-preview.8
+    - 0.9.0-preview.6
+    - 0.9.1-preview.15
+    - 0.10.0-preview.6
+    - 0.11.0-preview.7
+    - 0.11.1-preview.4
+    - 0.11.2-preview.1
+    - 0.13.0-preview.24
+    - 0.14.0-preview.18
+    - 0.14.0-preview.19
+    - 0.16.0-preview.21
+    - 0.17.0-preview.41
+    - 0.17.0-preview.42
+    - 0.50.0-preview.24
+    - 0.50.1-preview.2
+    - 0.51.0-preview.32
+    - 0.51.1-preview.21
+    compatible:
+    - 0.0.12-preview.2
+    - 0.0.12-preview.4
+    - 0.0.12-preview.5
+    - 0.0.12-preview.6
+    - 0.0.12-preview.8
+    - 0.0.12-preview.11
+    - 0.0.12-preview.12
+    - 0.0.12-preview.13
+    - 0.0.12-preview.14
+    - 0.0.12-preview.15
+    - 0.0.12-preview.16
+    - 0.0.12-preview.17
+    - 0.0.12-preview.18
+    - 0.0.12-preview.19
+    - 0.0.12-preview.20
+    - 0.0.12-preview.21
+    - 0.0.12-preview.23
+    - 0.0.12-preview.24
+    - 0.0.12-preview.26
+    - 0.0.12-preview.27
+    - 0.0.12-preview.28
+    - 0.0.12-preview.29
+    - 0.0.12-preview.30
+    - 0.0.12-preview.31
+    - 0.0.12-preview.32
+    - 0.0.12-preview.33
+    - 0.1.0-preview
+    - 0.1.1-preview
+    - 0.2.0-preview.18
+    - 0.3.0-preview.4
+    - 0.4.0-preview.10
+    - 0.5.0-preview.17
+    - 0.5.1-preview.11
+    - 0.6.0-preview.24
+    - 0.7.0-preview.19
+    - 0.8.0-preview.8
+    - 0.9.0-preview.6
+    - 0.9.1-preview.15
+    - 0.10.0-preview.6
+    - 0.11.0-preview.7
+    - 0.11.1-preview.4
+    - 0.11.2-preview.1
+    - 0.13.0-preview.24
+    - 0.14.0-preview.18
+    - 0.14.0-preview.19
+    - 0.16.0-preview.21
+    - 0.17.0-preview.41
+    - 0.17.0-preview.42
+    - 0.50.0-preview.24
+    - 0.50.1-preview.2
+    - 0.51.0-preview.32
+    - 0.51.1-preview.21
+    verified: 
+  dependencies:
+  - name: com.unity.burst
+    version: 1.6.6
+  - name: com.unity.properties
+    version: 1.7.0-preview
+  - name: com.unity.properties.ui
+    version: 1.7.0-preview
+  - name: com.unity.serialization
+    version: 1.7.0-preview.1
+  - name: com.unity.collections
+    version: 1.4.0
+  - name: com.unity.jobs
+    version: 0.70.0-preview.7
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.modules.assetbundle
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.test-framework.performance
+    version: 2.8.0-preview
+  - name: com.unity.nuget.mono-cecil
+    version: 1.10.1
+  - name: com.unity.scriptablebuildpipeline
+    version: 1.19.2
+  - name: com.unity.platforms
+    version: 0.51.1-preview.21
+  - name: com.unity.roslyn
+    version: 0.2.2-preview
+  - name: com.unity.profiling.core
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.burst
+    version: 1.6.6
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.properties
+    version: 1.7.0-preview
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.test-framework.performance
+    version: 2.8.0-preview
+  - name: com.unity.test-framework
+    version: 1.1.31
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.properties.ui
+    version: 1.7.0-preview
+  - name: com.unity.serialization
+    version: 1.7.0-preview.1
+  - name: com.unity.collections
+    version: 1.4.0
+  - name: com.unity.jobs
+    version: 0.70.0-preview.7
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.uielementsnative
+    version: 1.0.0
+  - name: com.unity.modules.assetbundle
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.scriptablebuildpipeline
+    version: 1.20.1
+  - name: com.unity.platforms
+    version: 0.51.1-preview.21
+  - name: com.unity.roslyn
+    version: 0.2.2-preview
+  - name: com.unity.profiling.core
+    version: 1.0.2
+  keywords:
+  - entities
+  - dots
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637950498580000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/dots.git
+    revision: 063a98897b40805f53b859bb426ce664229d0c00
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
 - packageId: com.unity.feature.development@1.0.1
   testable: 0
   isDirectDependency: 1
@@ -237,6 +674,96 @@ m_ResolvedPackages:
     version: 1.0.1
   - name: com.unity.settings-manager
     version: 1.0.3
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.1
+    nextVersion: 
+- packageId: com.unity.feature.worldbuilding@1.0.1
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.1
+  source: 2
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.feature.worldbuilding@1.0.1
+  assetPath: Packages/com.unity.feature.worldbuilding
+  name: com.unity.feature.worldbuilding
+  displayName: 3D World Building
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: feature
+  description: Create attractive 3D environments with the World building feature
+    set and round-trip assets between your 3D modeling software of choice using FBX
+    to realize your creative intent. Create geometry, sculpt meshes, & terrain, blend
+    textures, and place objects throughout your scene using artist driven tools to
+    create believable interactive environments.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.1
+    compatible:
+    - 1.0.1
+    verified: 1.0.1
+  dependencies:
+  - name: com.unity.probuilder
+    version: default
+  - name: com.unity.polybrush
+    version: default
+  - name: com.unity.formats.fbx
+    version: default
+  - name: com.unity.terrain-tools
+    version: default
+  resolvedDependencies:
+  - name: com.unity.probuilder
+    version: 5.0.3
+  - name: com.unity.settings-manager
+    version: 1.0.3
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.polybrush
+    version: 1.1.2
+  - name: com.unity.formats.fbx
+    version: 4.1.2
+  - name: com.unity.timeline
+    version: 1.6.4
+  - name: com.unity.modules.director
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.particlesystem
+    version: 1.0.0
+  - name: com.autodesk.fbx
+    version: 4.1.1
+  - name: com.unity.terrain-tools
+    version: 4.0.3
+  - name: com.unity.modules.terrain
+    version: 1.0.0
+  - name: com.unity.modules.terrainphysics
+    version: 1.0.0
   keywords: []
   registry:
     id: main
@@ -481,6 +1008,573 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.2.5
+    nextVersion: 
+- packageId: com.unity.inputsystem@1.3.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.3.0
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.inputsystem@1.3.0
+  assetPath: Packages/com.unity.inputsystem
+  name: com.unity.inputsystem
+  displayName: Input System
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: A new input system which can be used as a more extensible and customizable
+    alternative to Unity's classic input system in UnityEngine.Input.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.1.2-preview
+    - 0.2.0-preview
+    - 0.2.1-preview
+    - 0.2.6-preview
+    - 0.2.8-preview
+    - 0.2.10-preview
+    - 0.9.0-preview
+    - 0.9.1-preview
+    - 0.9.2-preview
+    - 0.9.3-preview
+    - 0.9.4-preview
+    - 0.9.5-preview
+    - 0.9.6-preview
+    - 1.0.0-preview
+    - 1.0.0-preview.1
+    - 1.0.0-preview.2
+    - 1.0.0-preview.3
+    - 1.0.0-preview.4
+    - 1.0.0-preview.5
+    - 1.0.0-preview.6
+    - 1.0.0-preview.7
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.1.0-pre.5
+    - 1.1.0-pre.6
+    - 1.1.0-preview.1
+    - 1.1.0-preview.2
+    - 1.1.0-preview.3
+    - 1.1.1
+    - 1.2.0
+    - 1.3.0
+    - 1.4.1
+    - 1.4.2
+    compatible:
+    - 1.3.0
+    - 1.4.1
+    - 1.4.2
+    verified: 1.3.0
+  dependencies:
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.uielementsnative
+    version: 1.0.0
+  keywords:
+  - input
+  - events
+  - keyboard
+  - mouse
+  - gamepad
+  - touch
+  - vr
+  - xr
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637769972190000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/InputSystem.git
+    revision: 76d3fd182183dff9e9793431de614fd1e69e363c
+    path: 
+  unityLifecycle:
+    version: 1.3.0
+    nextVersion: 
+- packageId: com.unity.physics@0.51.1-preview.21
+  testable: 0
+  isDirectDependency: 1
+  version: 0.51.1-preview.21
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.physics@0.51.1-preview.21
+  assetPath: Packages/com.unity.physics
+  name: com.unity.physics
+  displayName: Unity Physics
+  author:
+    name: 
+    email: 
+    url: 
+  category: Unity
+  type: 
+  description: 'Unity''s C# stateless physics library.
+
+
+    Built on top of the
+    Unity C# DOTS framework, Unity Physics is network-ready, completely customizable,
+    and built for performance out of the box. Whether you''re building the next mobile
+    hit or a new networked multiplayer console experience, Unity Physics leverages
+    the Burst compiler and Job system to scale across a range of hardware.
+
+
+    Unity
+    Physics is currently in preview, and is compatible with Unity 2019.3 and newer.'
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.0.1-preview.1
+    - 0.0.2-preview.1
+    - 0.1.0-preview
+    - 0.2.0-preview
+    - 0.2.2-preview
+    - 0.2.3-preview
+    - 0.2.4-preview
+    - 0.2.5-preview
+    - 0.2.5-preview.1
+    - 0.3.0-preview.1
+    - 0.3.1-preview
+    - 0.3.2-preview
+    - 0.4.0-preview.5
+    - 0.4.1-preview
+    - 0.5.0-preview.1
+    - 0.5.1-preview.2
+    - 0.6.0-preview.3
+    - 0.50.0-preview.24
+    - 0.50.0-preview.43
+    - 0.51.0-preview.32
+    - 0.51.1-preview.21
+    compatible:
+    - 0.0.1-preview.1
+    - 0.0.2-preview.1
+    - 0.1.0-preview
+    - 0.2.0-preview
+    - 0.2.2-preview
+    - 0.2.3-preview
+    - 0.2.4-preview
+    - 0.2.5-preview
+    - 0.2.5-preview.1
+    - 0.3.0-preview.1
+    - 0.3.1-preview
+    - 0.3.2-preview
+    - 0.4.0-preview.5
+    - 0.4.1-preview
+    - 0.5.0-preview.1
+    - 0.5.1-preview.2
+    - 0.6.0-preview.3
+    - 0.50.0-preview.24
+    - 0.50.0-preview.43
+    - 0.51.0-preview.32
+    - 0.51.1-preview.21
+    verified: 
+  dependencies:
+  - name: com.unity.burst
+    version: 1.6.6
+  - name: com.unity.collections
+    version: 1.4.0
+  - name: com.unity.entities
+    version: 0.51.1-preview.21
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.test-framework
+    version: 1.1.31
+  - name: com.unity.test-framework.performance
+    version: 2.8.0-preview
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.burst
+    version: 1.6.6
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.collections
+    version: 1.4.0
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.test-framework
+    version: 1.1.31
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.entities
+    version: 0.51.1-preview.21
+  - name: com.unity.properties
+    version: 1.7.0-preview
+  - name: com.unity.test-framework.performance
+    version: 2.8.0-preview
+  - name: com.unity.properties.ui
+    version: 1.7.0-preview
+  - name: com.unity.serialization
+    version: 1.7.0-preview.1
+  - name: com.unity.jobs
+    version: 0.70.0-preview.7
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.uielementsnative
+    version: 1.0.0
+  - name: com.unity.modules.assetbundle
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.scriptablebuildpipeline
+    version: 1.20.1
+  - name: com.unity.platforms
+    version: 0.51.1-preview.21
+  - name: com.unity.roslyn
+    version: 0.2.2-preview
+  - name: com.unity.profiling.core
+    version: 1.0.2
+  keywords:
+  - unity
+  - physics
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637950498660000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/dots.git
+    revision: 063a98897b40805f53b859bb426ce664229d0c00
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.unity.render-pipelines.universal@12.1.7
+  testable: 0
+  isDirectDependency: 1
+  version: 12.1.7
+  source: 2
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.render-pipelines.universal@12.1.7
+  assetPath: Packages/com.unity.render-pipelines.universal
+  name: com.unity.render-pipelines.universal
+  displayName: Universal RP
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The Universal Render Pipeline (URP) is a prebuilt Scriptable Render
+    Pipeline, made by Unity. URP provides artist-friendly workflows that let you
+    quickly and easily create optimized graphics across a range of platforms, from
+    mobile to high-end consoles and PCs.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 7.0.0
+    - 7.0.1
+    - 7.1.1
+    - 7.1.2
+    - 7.1.5
+    - 7.1.6
+    - 7.1.7
+    - 7.1.8
+    - 7.2.0
+    - 7.2.1
+    - 7.3.1
+    - 7.4.1
+    - 7.4.2
+    - 7.4.3
+    - 7.5.1
+    - 7.5.2
+    - 7.5.3
+    - 7.6.0
+    - 7.7.0
+    - 7.7.1
+    - 8.0.1
+    - 8.1.0
+    - 8.2.0
+    - 8.3.1
+    - 9.0.0-preview.14
+    - 9.0.0-preview.35
+    - 9.0.0-preview.55
+    - 9.0.0-preview.72
+    - 10.0.0-preview.26
+    - 10.1.0
+    - 10.2.0
+    - 10.2.1
+    - 10.2.2
+    - 10.3.1
+    - 10.3.2
+    - 10.4.0
+    - 10.5.0
+    - 10.5.1
+    - 10.6.0
+    - 10.7.0
+    - 10.8.0
+    - 10.8.1
+    - 10.9.0
+    - 10.10.0
+    - 12.1.7
+    compatible:
+    - 12.1.7
+    verified: 12.1.7
+  dependencies:
+  - name: com.unity.mathematics
+    version: 1.2.1
+  - name: com.unity.burst
+    version: 1.5.0
+  - name: com.unity.render-pipelines.core
+    version: 12.1.7
+  - name: com.unity.shadergraph
+    version: 12.1.7
+  resolvedDependencies:
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.burst
+    version: 1.6.6
+  - name: com.unity.render-pipelines.core
+    version: 12.1.7
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.shadergraph
+    version: 12.1.7
+  - name: com.unity.searcher
+    version: 4.9.1
+  keywords:
+  - graphics
+  - performance
+  - rendering
+  - mobile
+  - render
+  - pipeline
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 12.1.7
+    nextVersion: 
+- packageId: com.unity.rendering.hybrid@0.51.1-preview.21
+  testable: 0
+  isDirectDependency: 1
+  version: 0.51.1-preview.21
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.rendering.hybrid@0.51.1-preview.21
+  assetPath: Packages/com.unity.rendering.hybrid
+  name: com.unity.rendering.hybrid
+  displayName: Hybrid Renderer
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The Hybrid Rendering package provides systems and components for drawing
+    meshes using DOTS, including support for instanced mesh rendering and LOD.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.0.1-preview.3
+    - 0.0.1-preview.4
+    - 0.0.1-preview.6
+    - 0.0.1-preview.7
+    - 0.0.1-preview.8
+    - 0.0.1-preview.9
+    - 0.0.1-preview.10
+    - 0.0.1-preview.11
+    - 0.0.1-preview.12
+    - 0.0.1-preview.13
+    - 0.1.0-preview
+    - 0.1.1-preview
+    - 0.2.0-preview.18
+    - 0.3.0-preview.4
+    - 0.3.1-preview.10
+    - 0.3.2-preview.17
+    - 0.3.3-preview.11
+    - 0.3.4-preview.24
+    - 0.3.5-preview.15
+    - 0.4.0-preview.8
+    - 0.4.1-preview.6
+    - 0.4.2-preview.16
+    - 0.5.0-preview.6
+    - 0.5.1-preview.18
+    - 0.5.2-preview.4
+    - 0.7.0-preview.24
+    - 0.8.0-preview.18
+    - 0.8.0-preview.19
+    - 0.10.0-preview.21
+    - 0.11.0-preview.42
+    - 0.11.0-preview.43
+    - 0.11.0-preview.44
+    - 0.50.0-preview.24
+    - 0.50.0-preview.44
+    - 0.51.0-preview.32
+    - 0.51.1-preview.21
+    compatible:
+    - 0.0.1-preview.3
+    - 0.0.1-preview.4
+    - 0.0.1-preview.6
+    - 0.0.1-preview.7
+    - 0.0.1-preview.8
+    - 0.0.1-preview.9
+    - 0.0.1-preview.10
+    - 0.0.1-preview.11
+    - 0.0.1-preview.12
+    - 0.0.1-preview.13
+    - 0.1.0-preview
+    - 0.1.1-preview
+    - 0.2.0-preview.18
+    - 0.3.0-preview.4
+    - 0.3.1-preview.10
+    - 0.3.2-preview.17
+    - 0.3.3-preview.11
+    - 0.3.4-preview.24
+    - 0.3.5-preview.15
+    - 0.4.0-preview.8
+    - 0.4.1-preview.6
+    - 0.4.2-preview.16
+    - 0.5.0-preview.6
+    - 0.5.1-preview.18
+    - 0.5.2-preview.4
+    - 0.7.0-preview.24
+    - 0.8.0-preview.18
+    - 0.8.0-preview.19
+    - 0.10.0-preview.21
+    - 0.11.0-preview.42
+    - 0.11.0-preview.43
+    - 0.11.0-preview.44
+    - 0.50.0-preview.24
+    - 0.50.0-preview.44
+    - 0.51.0-preview.32
+    - 0.51.1-preview.21
+    verified: 
+  dependencies:
+  - name: com.unity.entities
+    version: 0.51.1-preview.21
+  resolvedDependencies:
+  - name: com.unity.entities
+    version: 0.51.1-preview.21
+  - name: com.unity.burst
+    version: 1.6.6
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.properties
+    version: 1.7.0-preview
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.test-framework.performance
+    version: 2.8.0-preview
+  - name: com.unity.test-framework
+    version: 1.1.31
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.properties.ui
+    version: 1.7.0-preview
+  - name: com.unity.serialization
+    version: 1.7.0-preview.1
+  - name: com.unity.collections
+    version: 1.4.0
+  - name: com.unity.jobs
+    version: 0.70.0-preview.7
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.uielementsnative
+    version: 1.0.0
+  - name: com.unity.modules.assetbundle
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.scriptablebuildpipeline
+    version: 1.20.1
+  - name: com.unity.platforms
+    version: 0.51.1-preview.21
+  - name: com.unity.roslyn
+    version: 0.2.2-preview
+  - name: com.unity.profiling.core
+    version: 1.0.2
+  keywords:
+  - dots
+  - hybrid
+  - rendering
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637950498800000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/dots.git
+    revision: 063a98897b40805f53b859bb426ce664229d0c00
+    path: 
+  unityLifecycle:
+    version: 
     nextVersion: 
 - packageId: com.unity.test-framework@1.1.31
   testable: 0
@@ -2878,6 +3972,1208 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.6
     nextVersion: 
+- packageId: com.unity.mathematics@1.2.6
+  testable: 0
+  isDirectDependency: 0
+  version: 1.2.6
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.mathematics@1.2.6
+  assetPath: Packages/com.unity.mathematics
+  name: com.unity.mathematics
+  displayName: Mathematics
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Unity's C# SIMD math library providing vector types and math functions
+    with a shader like syntax.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.0.12-preview.2
+    - 0.0.12-preview.5
+    - 0.0.12-preview.8
+    - 0.0.12-preview.10
+    - 0.0.12-preview.11
+    - 0.0.12-preview.13
+    - 0.0.12-preview.17
+    - 0.0.12-preview.19
+    - 0.0.12-preview.20
+    - 1.0.0-preview.1
+    - 1.0.1
+    - 1.1.0-preview.1
+    - 1.1.0
+    - 1.2.1
+    - 1.2.4
+    - 1.2.5
+    - 1.2.6
+    compatible:
+    - 1.2.6
+    verified: 1.2.6
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637841876140000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/Unity.Mathematics.git
+    revision: f110c8c230d253654afed153569030a587cc7557
+    path: 
+  unityLifecycle:
+    version: 1.2.6
+    nextVersion: 
+- packageId: com.unity.burst@1.6.6
+  testable: 0
+  isDirectDependency: 0
+  version: 1.6.6
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.burst@1.6.6
+  assetPath: Packages/com.unity.burst
+  name: com.unity.burst
+  displayName: Burst
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Burst is a compiler that translates from IL/.NET bytecode to highly
+    optimized native code using LLVM.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.2.4-preview.5
+    - 0.2.4-preview.7
+    - 0.2.4-preview.11
+    - 0.2.4-preview.12
+    - 0.2.4-preview.13
+    - 0.2.4-preview.14
+    - 0.2.4-preview.15
+    - 0.2.4-preview.16
+    - 0.2.4-preview.17
+    - 0.2.4-preview.18
+    - 0.2.4-preview.19
+    - 0.2.4-preview.20
+    - 0.2.4-preview.21
+    - 0.2.4-preview.22
+    - 0.2.4-preview.23
+    - 0.2.4-preview.24
+    - 0.2.4-preview.25
+    - 0.2.4-preview.30
+    - 0.2.4-preview.31
+    - 0.2.4-preview.33
+    - 0.2.4-preview.34
+    - 0.2.4-preview.37
+    - 0.2.4-preview.41
+    - 0.2.4-preview.45
+    - 0.2.4-preview.48
+    - 0.2.4-preview.50
+    - 1.1.0-preview.2
+    - 1.1.0-preview.3
+    - 1.1.0-preview.4
+    - 1.1.1
+    - 1.1.2
+    - 1.1.3-preview.3
+    - 1.2.0-preview.1
+    - 1.2.0-preview.5
+    - 1.2.0-preview.6
+    - 1.2.0-preview.8
+    - 1.2.0-preview.9
+    - 1.2.0-preview.10
+    - 1.2.0-preview.11
+    - 1.2.0-preview.12
+    - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 1.3.0-preview.1
+    - 1.3.0-preview.2
+    - 1.3.0-preview.3
+    - 1.3.0-preview.4
+    - 1.3.0-preview.5
+    - 1.3.0-preview.6
+    - 1.3.0-preview.7
+    - 1.3.0-preview.8
+    - 1.3.0-preview.9
+    - 1.3.0-preview.10
+    - 1.3.0-preview.11
+    - 1.3.0-preview.12
+    - 1.3.0-preview.13
+    - 1.3.0
+    - 1.3.1
+    - 1.3.2
+    - 1.3.3
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.3.8
+    - 1.3.9
+    - 1.4.0-pre.1
+    - 1.4.0-preview.1
+    - 1.4.0-preview.2
+    - 1.4.0-preview.3
+    - 1.4.0-preview.4
+    - 1.4.0-preview.5
+    - 1.4.1-pre.1
+    - 1.4.1-pre.2
+    - 1.4.1
+    - 1.4.2
+    - 1.4.3
+    - 1.4.4-preview.1
+    - 1.4.4-preview.2
+    - 1.4.4
+    - 1.4.5
+    - 1.4.6
+    - 1.4.7
+    - 1.4.8
+    - 1.4.9
+    - 1.4.11
+    - 1.5.0-pre.3
+    - 1.5.0-pre.4
+    - 1.5.0-pre.5
+    - 1.5.0
+    - 1.5.1
+    - 1.5.2
+    - 1.5.3
+    - 1.5.4
+    - 1.5.5
+    - 1.5.6-preview.1
+    - 1.5.6
+    - 1.6.0-pre.2
+    - 1.6.0-pre.3
+    - 1.6.0-pre.4
+    - 1.6.0
+    - 1.6.1
+    - 1.6.2
+    - 1.6.3
+    - 1.6.4
+    - 1.6.5
+    - 1.6.6
+    - 1.7.0-pre.1
+    - 1.7.0
+    - 1.7.1
+    - 1.7.2
+    - 1.7.3
+    - 1.7.4
+    - 1.8.0-pre.1
+    - 1.8.0-pre.2
+    compatible:
+    - 1.6.6
+    - 1.7.0-pre.1
+    - 1.7.0
+    - 1.7.1
+    - 1.7.2
+    - 1.7.3
+    - 1.7.4
+    - 1.8.0-pre.1
+    - 1.8.0-pre.2
+    verified: 1.6.6
+  dependencies:
+  - name: com.unity.mathematics
+    version: 1.2.1
+  resolvedDependencies:
+  - name: com.unity.mathematics
+    version: 1.2.6
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637902875830000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/burst.git
+    revision: 21ee3d01c6a374f6b01106f9eb6f1b43e113b1a3
+    path: 
+  unityLifecycle:
+    version: 1.6.6
+    nextVersion: 
+- packageId: com.unity.render-pipelines.core@12.1.7
+  testable: 0
+  isDirectDependency: 0
+  version: 12.1.7
+  source: 2
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.render-pipelines.core@12.1.7
+  assetPath: Packages/com.unity.render-pipelines.core
+  name: com.unity.render-pipelines.core
+  displayName: Core RP Library
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: SRP Core makes it easier to create or customize a Scriptable Render
+    Pipeline (SRP). SRP Core contains reusable code, including boilerplate code for
+    working with platform-specific graphics APIs, utility functions for common rendering
+    operations, and  shader libraries. The code in SRP Core is use by the High Definition
+    Render Pipeline (HDRP) and Universal Render Pipeline (URP). If you are creating
+    a custom SRP from scratch or customizing a prebuilt SRP, using SRP Core will
+    save you time.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.1.21
+    - 0.1.27
+    - 0.1.28
+    - 1.0.0-beta
+    - 1.0.1-beta
+    - 1.1.1-preview
+    - 1.1.2-preview
+    - 1.1.4-preview
+    - 1.1.5-preview
+    - 1.1.8-preview
+    - 1.1.10-preview
+    - 1.1.11-preview
+    - 2.0.1-preview
+    - 2.0.3-preview
+    - 2.0.4-preview
+    - 2.0.4-preview.1
+    - 2.0.5-preview
+    - 2.0.6-preview
+    - 2.0.7-preview
+    - 2.0.8-preview
+    - 3.0.0-preview
+    - 3.1.0-preview
+    - 3.3.0-preview
+    - 4.0.0-preview
+    - 4.0.1-preview
+    - 4.1.0-preview
+    - 4.2.0-preview
+    - 4.3.0-preview
+    - 4.6.0-preview
+    - 4.8.0-preview
+    - 4.9.0-preview
+    - 4.10.0-preview
+    - 5.0.0-preview
+    - 5.1.0
+    - 5.2.0
+    - 5.2.1
+    - 5.2.2
+    - 5.2.3
+    - 5.3.1
+    - 5.6.1
+    - 5.7.2
+    - 5.8.2
+    - 5.9.0
+    - 5.10.0
+    - 5.13.0
+    - 5.16.1
+    - 6.5.2
+    - 6.5.3
+    - 6.7.1
+    - 6.9.0
+    - 6.9.1
+    - 6.9.2
+    - 7.0.0
+    - 7.0.1
+    - 7.1.1
+    - 7.1.2
+    - 7.1.5
+    - 7.1.6
+    - 7.1.7
+    - 7.1.8
+    - 7.2.0
+    - 7.2.1
+    - 7.3.1
+    - 7.4.1
+    - 7.4.2
+    - 7.4.3
+    - 7.5.1
+    - 7.5.2
+    - 7.5.3
+    - 7.6.0
+    - 7.7.0
+    - 7.7.1
+    - 8.0.1
+    - 8.1.0
+    - 8.2.0
+    - 8.3.1
+    - 9.0.0-preview.13
+    - 9.0.0-preview.35
+    - 9.0.0-preview.38
+    - 9.0.0-preview.60
+    - 9.0.0-preview.77
+    - 10.0.0-preview.30
+    - 10.1.0
+    - 10.2.0
+    - 10.2.1
+    - 10.2.2
+    - 10.3.1
+    - 10.3.2
+    - 10.4.0
+    - 10.5.0
+    - 10.5.1
+    - 10.6.0
+    - 10.7.0
+    - 10.8.0
+    - 10.8.1
+    - 10.9.0
+    - 10.10.0
+    - 12.1.7
+    compatible:
+    - 12.1.7
+    verified: 12.1.7
+  dependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 12.1.7
+    nextVersion: 
+- packageId: com.unity.shadergraph@12.1.7
+  testable: 0
+  isDirectDependency: 0
+  version: 12.1.7
+  source: 2
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.shadergraph@12.1.7
+  assetPath: Packages/com.unity.shadergraph
+  name: com.unity.shadergraph
+  displayName: Shader Graph
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The Shader Graph package adds a visual Shader editing tool to Unity.
+    You can use this tool to create Shaders in a visual way instead of writing code.
+    Specific render pipelines can implement specific graph features. Currently, both
+    the High Definition Rendering Pipeline and the Universal Rendering Pipeline support
+    Shader Graph.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.1.8
+    - 0.1.9
+    - 0.1.17
+    - 1.0.0-beta
+    - 1.1.1-preview
+    - 1.1.2-preview
+    - 1.1.3-preview
+    - 1.1.4-preview
+    - 1.1.5-preview
+    - 1.1.6-preview
+    - 1.1.8-preview
+    - 1.1.9-preview
+    - 2.0.1-preview
+    - 2.0.3-preview
+    - 2.0.4-preview
+    - 2.0.4-preview.1
+    - 2.0.5-preview
+    - 2.0.6-preview
+    - 2.0.7-preview
+    - 2.0.8-preview
+    - 3.0.0-preview
+    - 3.1.0-preview
+    - 3.3.0-preview
+    - 4.0.0-preview
+    - 4.0.1-preview
+    - 4.1.0-preview
+    - 4.2.0-preview
+    - 4.3.0-preview
+    - 4.6.0-preview
+    - 4.8.0-preview
+    - 4.9.0-preview
+    - 4.10.0-preview
+    - 5.0.0-preview
+    - 5.1.0
+    - 5.2.0
+    - 5.2.1
+    - 5.2.2
+    - 5.2.3
+    - 5.3.1
+    - 5.6.1
+    - 5.7.2
+    - 5.8.2
+    - 5.9.0
+    - 5.10.0
+    - 5.13.0
+    - 5.16.1
+    - 6.5.2
+    - 6.5.3
+    - 6.7.1
+    - 6.9.0
+    - 6.9.1
+    - 6.9.2
+    - 7.0.0
+    - 7.0.1
+    - 7.1.1
+    - 7.1.2
+    - 7.1.5
+    - 7.1.6
+    - 7.1.7
+    - 7.1.8
+    - 7.2.0
+    - 7.2.1
+    - 7.3.1
+    - 7.4.1
+    - 7.4.2
+    - 7.4.3
+    - 7.5.1
+    - 7.5.2
+    - 7.5.3
+    - 7.6.0
+    - 7.7.0
+    - 7.7.1
+    - 8.0.1
+    - 8.1.0
+    - 8.2.0
+    - 8.3.1
+    - 9.0.0-preview.14
+    - 9.0.0-preview.34
+    - 9.0.0-preview.55
+    - 9.0.0-preview.72
+    - 10.0.0-preview.27
+    - 10.1.0
+    - 10.2.0
+    - 10.2.1
+    - 10.2.2
+    - 10.3.1
+    - 10.3.2
+    - 10.4.0
+    - 10.5.0
+    - 10.5.1
+    - 10.6.0
+    - 10.7.0
+    - 10.8.0
+    - 10.8.1
+    - 10.9.0
+    - 10.10.0
+    - 12.1.7
+    compatible:
+    - 12.1.7
+    verified: 12.1.7
+  dependencies:
+  - name: com.unity.render-pipelines.core
+    version: 12.1.7
+  - name: com.unity.searcher
+    version: 4.9.1
+  resolvedDependencies:
+  - name: com.unity.render-pipelines.core
+    version: 12.1.7
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.searcher
+    version: 4.9.1
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 12.1.7
+    nextVersion: 
+- packageId: com.unity.collections@1.4.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.4.0
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.collections@1.4.0
+  assetPath: Packages/com.unity.collections
+  name: com.unity.collections
+  displayName: Collections
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: A C# collections library providing data structures that can be used
+    in jobs, and optimized by Burst compiler.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.0.9-preview.1
+    - 0.0.9-preview.2
+    - 0.0.9-preview.3
+    - 0.0.9-preview.4
+    - 0.0.9-preview.5
+    - 0.0.9-preview.6
+    - 0.0.9-preview.7
+    - 0.0.9-preview.8
+    - 0.0.9-preview.9
+    - 0.0.9-preview.10
+    - 0.0.9-preview.11
+    - 0.0.9-preview.12
+    - 0.0.9-preview.13
+    - 0.0.9-preview.14
+    - 0.0.9-preview.15
+    - 0.0.9-preview.16
+    - 0.0.9-preview.17
+    - 0.0.9-preview.18
+    - 0.0.9-preview.19
+    - 0.0.9-preview.20
+    - 0.1.0-preview
+    - 0.1.1-preview
+    - 0.2.0-preview.13
+    - 0.3.0-preview.0
+    - 0.4.0-preview.6
+    - 0.5.0-preview.9
+    - 0.5.1-preview.11
+    - 0.5.2-preview.8
+    - 0.6.0-preview.9
+    - 0.7.0-preview.2
+    - 0.7.1-preview.3
+    - 0.8.0-preview.5
+    - 0.9.0-preview.5
+    - 0.9.0-preview.6
+    - 0.11.0-preview.17
+    - 0.12.0-preview.13
+    - 0.14.0-preview.16
+    - 0.15.0-preview.21
+    - 0.17.0-preview.18
+    - 1.0.0-pre.3
+    - 1.0.0-pre.5
+    - 1.0.0-pre.6
+    - 1.1.0
+    - 1.2.3-pre.1
+    - 1.2.3
+    - 1.2.4
+    - 1.3.1
+    - 1.4.0
+    - 2.1.0-exp.4
+    compatible:
+    - 1.2.4
+    - 1.3.1
+    - 1.4.0
+    verified: 1.2.4
+  dependencies:
+  - name: com.unity.burst
+    version: 1.6.6
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.test-framework
+    version: 1.1.31
+  resolvedDependencies:
+  - name: com.unity.burst
+    version: 1.6.6
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.test-framework
+    version: 1.1.31
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords:
+  - dots
+  - collections
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637950498500000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/dots.git
+    revision: 8d3aa805a44e52c256f5c15cabe67d7e38a4bcb4
+    path: 
+  unityLifecycle:
+    version: 1.2.4
+    nextVersion: 
+- packageId: com.unity.test-framework.performance@2.8.0-preview
+  testable: 0
+  isDirectDependency: 0
+  version: 2.8.0-preview
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.test-framework.performance@2.8.0-preview
+  assetPath: Packages/com.unity.test-framework.performance
+  name: com.unity.test-framework.performance
+  displayName: Performance testing API
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Extension to the Unity Test framework package. Adds performance testing
+    capabilities and collects configuration metadata.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.1.27-preview
+    - 0.1.29-preview
+    - 0.1.31-preview
+    - 0.1.33-preview
+    - 0.1.34-preview
+    - 0.1.36-preview
+    - 0.1.37-preview
+    - 0.1.39-preview
+    - 0.1.40-preview
+    - 0.1.41-preview
+    - 0.1.42-preview
+    - 0.1.44-preview
+    - 0.1.45-preview
+    - 0.1.47-preview
+    - 0.1.48-preview
+    - 0.1.49-preview
+    - 0.1.50-preview
+    - 1.0.4-preview
+    - 1.0.6-preview
+    - 1.0.9-preview
+    - 1.1.2-preview
+    - 1.2.0-preview
+    - 1.2.1-preview
+    - 1.2.3-preview
+    - 1.2.5-preview
+    - 1.2.6-preview
+    - 1.3.0-preview
+    - 1.3.1-preview
+    - 1.3.2-preview
+    - 1.3.3-preview
+    - 2.0.1-preview
+    - 2.0.2-preview
+    - 2.0.3-preview
+    - 2.0.6-preview
+    - 2.0.7-preview
+    - 2.0.8-preview
+    - 2.0.9-preview
+    - 2.1.0-preview
+    - 2.2.0-preview
+    - 2.3.1-preview
+    - 2.4.1-preview
+    - 2.5.1-preview
+    - 2.6.0-preview
+    - 2.7.0-preview
+    - 2.8.0-preview
+    - 2.8.1-preview
+    compatible:
+    - 1.3.3-preview
+    - 2.0.1-preview
+    - 2.0.2-preview
+    - 2.0.3-preview
+    - 2.0.6-preview
+    - 2.0.7-preview
+    - 2.0.8-preview
+    - 2.0.9-preview
+    - 2.1.0-preview
+    - 2.2.0-preview
+    - 2.3.1-preview
+    - 2.4.1-preview
+    - 2.5.1-preview
+    - 2.6.0-preview
+    - 2.7.0-preview
+    - 2.8.0-preview
+    - 2.8.1-preview
+    verified: 
+  dependencies:
+  - name: com.unity.test-framework
+    version: 1.1.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.test-framework
+    version: 1.1.31
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords:
+  - performance
+  - test
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637514829010000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.test-framework.performance.git
+    revision: ed41cff119cdf700f111dbfd9150391bcc7da9e2
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.unity.probuilder@5.0.3
+  testable: 0
+  isDirectDependency: 0
+  version: 5.0.3
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.probuilder@5.0.3
+  assetPath: Packages/com.unity.probuilder
+  name: com.unity.probuilder
+  displayName: ProBuilder
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: 'Build, edit, and texture custom geometry in Unity. Use ProBuilder
+    for in-scene level design, prototyping, collision meshes, all with on-the-fly
+    play-testing.
+
+
+    Advanced features include UV editing, vertex colors, parametric
+    shapes, and texture blending. With ProBuilder''s model export feature it''s easy
+    to tweak your levels in any external 3D modelling suite.
+
+
+    If you are using
+    URP/HDRP, be careful to also import the corresponding sample project in the section
+    below to get the proper materials.'
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 3.0.0
+    - 3.0.1
+    - 3.0.2
+    - 3.0.3
+    - 3.0.6
+    - 3.0.8
+    - 3.0.9
+    - 3.10.1
+    - 4.0.2
+    - 4.0.3
+    - 4.0.4
+    - 4.0.5
+    - 4.1.0
+    - 4.1.2
+    - 4.2.1
+    - 4.2.2-preview.1
+    - 4.2.2-preview.2
+    - 4.2.3
+    - 4.2.4-preview.0
+    - 4.3.0-preview.0
+    - 4.3.0-preview.1
+    - 4.3.0-preview.2
+    - 4.3.0-preview.4
+    - 4.3.0-preview.6
+    - 4.3.0-preview.7
+    - 4.3.0-preview.8
+    - 4.3.0-preview.9
+    - 4.3.1
+    - 4.4.0-preview.1
+    - 4.4.0
+    - 4.5.0
+    - 4.5.2
+    - 5.0.0-pre.7
+    - 5.0.0-pre.10
+    - 5.0.1
+    - 5.0.3
+    - 5.0.4
+    - 5.0.6
+    compatible:
+    - 5.0.3
+    - 5.0.4
+    - 5.0.6
+    verified: 5.0.6
+  dependencies:
+  - name: com.unity.settings-manager
+    version: 1.0.3
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.settings-manager
+    version: 1.0.3
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords:
+  - 3d
+  - model
+  - mesh
+  - modeling
+  - geometry
+  - shape
+  - cube
+  - blender
+  - max
+  - maya
+  - fbx
+  - obj
+  - level
+  - design
+  - block
+  - greybox
+  - graybox
+  - whitebox
+  - prototype
+  - probuilder
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637534907290000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: git+https://github.com/Unity-Technologies/com.unity.probuilder.git
+    revision: 6a81f0485f2eed8c8a0c193422d52d55f64cd79c
+    path: 
+  unityLifecycle:
+    version: 5.0.3
+    nextVersion: 
+- packageId: com.unity.polybrush@1.1.2
+  testable: 0
+  isDirectDependency: 0
+  version: 1.1.2
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.polybrush@1.1.2
+  assetPath: Packages/com.unity.polybrush
+  name: com.unity.polybrush
+  displayName: Polybrush
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Mesh painting, sculpting, and geo-scattering tool for Unity.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.13
+    - 1.0.0-preview.16
+    - 1.0.0-preview.17
+    - 1.0.0
+    - 1.0.1-preview.1
+    - 1.0.1-preview.2
+    - 1.0.1
+    - 1.0.2-preview.1
+    - 1.0.2-preview.4
+    - 1.0.2
+    - 1.1.0-pre.1
+    - 1.1.2
+    - 1.1.3
+    compatible:
+    - 1.1.2
+    - 1.1.3
+    verified: 1.1.3
+  dependencies:
+  - name: com.unity.settings-manager
+    version: 1.0.3
+  resolvedDependencies:
+  - name: com.unity.settings-manager
+    version: 1.0.3
+  keywords:
+  - modeling
+  - sculpting
+  - push
+  - clay
+  - terrain
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637533293620000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: git+https://github.com/Unity-Technologies/polybrush.git
+    revision: 33a169f6d3adb5479de5d76145738d3a38e95c77
+    path: 
+  unityLifecycle:
+    version: 1.1.2
+    nextVersion: 
+- packageId: com.unity.formats.fbx@4.1.2
+  testable: 0
+  isDirectDependency: 0
+  version: 4.1.2
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.formats.fbx@4.1.2
+  assetPath: Packages/com.unity.formats.fbx
+  name: com.unity.formats.fbx
+  displayName: FBX Exporter
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: "The Unity FBX Exporter package makes it easy to send geometry and
+    animation to any application that supports the FBX format and send them back
+    to Unity with minimal effort.\n\nIn particular, this round-trip workflow enables
+    you to export Unity Scenes to FBX files, import them into Autodesk\xAE Maya\xAE,
+    Autodesk\xAE Maya LT\u2122, or Autodesk\xAE 3ds Max\xAE using an artist-friendly
+    interface, export Unity-ready FBX geometry and animation, and safely merge your
+    changes back into those Assets to continue your work in Unity."
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 2.0.1-preview.2
+    - 2.0.1-preview.3
+    - 2.0.1-preview.4
+    - 2.0.1-preview.5
+    - 2.0.1-preview.11
+    - 2.0.2-preview.1
+    - 2.0.3-preview.3
+    - 3.0.0-preview.2
+    - 3.0.1-preview.2
+    - 3.1.0-preview.1
+    - 3.2.0-preview.2
+    - 3.2.1-preview.2
+    - 4.0.0-pre.1
+    - 4.0.0-pre.4
+    - 4.0.1
+    - 4.1.0-pre.2
+    - 4.1.0
+    - 4.1.1
+    - 4.1.2
+    - 4.2.0-pre.1
+    - 4.2.0
+    compatible:
+    - 4.1.2
+    - 4.2.0-pre.1
+    - 4.2.0
+    verified: 4.1.2
+  dependencies:
+  - name: com.unity.timeline
+    version: 1.5.2
+  - name: com.autodesk.fbx
+    version: 4.1.1
+  resolvedDependencies:
+  - name: com.unity.timeline
+    version: 1.6.4
+  - name: com.unity.modules.director
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.particlesystem
+    version: 1.0.0
+  - name: com.autodesk.fbx
+    version: 4.1.1
+  keywords:
+  - fbx
+  - animation
+  - modeling
+  - maya
+  - max
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637733605130000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.formats.fbx.git
+    revision: 2daae3674ab93a799fbb71611abb1440e5d0e527
+    path: 
+  unityLifecycle:
+    version: 4.1.2
+    nextVersion: 
+- packageId: com.unity.terrain-tools@4.0.3
+  testable: 0
+  isDirectDependency: 0
+  version: 4.0.3
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.terrain-tools@4.0.3
+  assetPath: Packages/com.unity.terrain-tools
+  name: com.unity.terrain-tools
+  displayName: Terrain Tools
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: "The Terrain Tools package adds additional Terrain sculpting brushes
+    and tools to Unity. This add-on toolset is suitable if you require more control
+    over the appearance of your Terrain, and want to streamline Terrain workflows.
+    It\u2019s also useful when you want to make more complex-looking Terrain, or
+    author Terrain Texture data in external digital content creation tools."
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.1.2-preview
+    - 1.1.4-preview
+    - 2.0.0-preview
+    - 2.0.1-preview
+    - 2.0.2-preview
+    - 3.0.0-preview
+    - 3.0.1-preview
+    - 3.0.2-preview.2
+    - 3.0.2-preview.3
+    - 4.0.0-pre.2
+    - 4.0.0
+    - 4.0.3
+    - 5.0.0-pre.2
+    - 5.0.0-pre.3
+    - 5.0.0-pre.4
+    - 5.0.1
+    compatible:
+    - 4.0.3
+    verified: 4.0.3
+  dependencies:
+  - name: com.unity.modules.terrain
+    version: 1.0.0
+  - name: com.unity.modules.terrainphysics
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.terrain
+    version: 1.0.0
+  - name: com.unity.modules.terrainphysics
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  keywords:
+  - Terrain
+  - Brush
+  - Toolbox
+  - Mask
+  - Filter
+  - Noise
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637688991560000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/TerrainTools.git
+    revision: 68c31ffe66a444f50da306b6cdc332efc6887b09
+    path: 
+  unityLifecycle:
+    version: 4.0.3
+    nextVersion: 
 - packageId: com.unity.editorcoroutines@1.0.0
   testable: 0
   isDirectDependency: 0
@@ -3050,6 +5346,7 @@ m_ResolvedPackages:
     - 1.2.0-exp.5
     - 1.2.0-exp.6
     - 1.2.0-exp.7
+    - 1.2.0
     compatible:
     - 1.0.1
     - 1.1.0
@@ -3061,6 +5358,7 @@ m_ResolvedPackages:
     - 1.2.0-exp.5
     - 1.2.0-exp.6
     - 1.2.0-exp.7
+    - 1.2.0
     verified: 1.0.1
   dependencies:
   - name: com.unity.test-framework
@@ -3102,6 +5400,1044 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.0.1
+    nextVersion: 
+- packageId: com.unity.properties@1.7.0-preview
+  testable: 0
+  isDirectDependency: 0
+  version: 1.7.0-preview
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.properties@1.7.0-preview
+  assetPath: Packages/com.unity.properties
+  name: com.unity.properties
+  displayName: Properties
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Interfaces and utilities to describe and visit data containers.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.1.14-preview.2
+    - 0.1.18-preview.2
+    - 0.2.9-preview
+    - 0.2.11-preview
+    - 0.4.0-preview
+    - 0.5.0-preview
+    - 0.6.0-preview
+    - 0.6.2-preview
+    - 0.6.3-preview
+    - 0.6.4-preview
+    - 0.7.0-preview
+    - 0.7.1-preview
+    - 0.8.0-preview
+    - 0.8.1-preview
+    - 0.9.0-preview
+    - 0.9.1-preview
+    - 0.9.2-preview
+    - 0.10.0-preview
+    - 0.10.1-preview
+    - 0.10.2-preview
+    - 0.10.3-preview
+    - 0.10.4-preview
+    - 1.0.0-preview.3
+    - 1.0.0-preview.5
+    - 1.1.0-preview
+    - 1.1.1-preview
+    - 1.2.0-preview
+    - 1.3.0-preview
+    - 1.3.1-preview
+    - 1.4.3-preview
+    - 1.5.0-preview
+    - 1.6.0-preview
+    - 1.7.0-preview
+    - 1.7.1-preview
+    - 1.7.2-preview
+    - 1.7.4-preview
+    - 1.7.5-preview
+    - 1.8.2-preview
+    - 1.8.3-preview
+    - 2.0.0-exp.11
+    - 2.0.0-exp.13
+    - 2.1.0-exp.1
+    - 2.1.0-exp.2
+    compatible:
+    - 0.1.14-preview.2
+    - 0.1.18-preview.2
+    - 0.2.9-preview
+    - 0.2.11-preview
+    - 0.4.0-preview
+    - 0.5.0-preview
+    - 0.6.0-preview
+    - 0.6.2-preview
+    - 0.6.3-preview
+    - 0.6.4-preview
+    - 0.7.0-preview
+    - 0.7.1-preview
+    - 0.8.0-preview
+    - 0.8.1-preview
+    - 0.9.0-preview
+    - 0.9.1-preview
+    - 0.9.2-preview
+    - 0.10.0-preview
+    - 0.10.1-preview
+    - 0.10.2-preview
+    - 0.10.3-preview
+    - 0.10.4-preview
+    - 1.0.0-preview.3
+    - 1.0.0-preview.5
+    - 1.1.0-preview
+    - 1.1.1-preview
+    - 1.2.0-preview
+    - 1.3.0-preview
+    - 1.3.1-preview
+    - 1.4.3-preview
+    - 1.5.0-preview
+    - 1.6.0-preview
+    - 1.7.0-preview
+    - 1.7.1-preview
+    - 1.7.2-preview
+    - 1.7.4-preview
+    - 1.7.5-preview
+    - 1.8.2-preview
+    - 1.8.3-preview
+    - 2.0.0-exp.11
+    - 2.0.0-exp.13
+    - 2.1.0-exp.1
+    - 2.1.0-exp.2
+    verified: 
+  dependencies:
+  - name: com.unity.nuget.mono-cecil
+    version: 0.1.6-preview.2
+  - name: com.unity.test-framework.performance
+    version: 2.3.1-preview
+  resolvedDependencies:
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.test-framework.performance
+    version: 2.8.0-preview
+  - name: com.unity.test-framework
+    version: 1.1.31
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords:
+  - properties
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637503886630000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.properties.git
+    revision: dc20ffe8506dc7e48fccb10df8ea214ea81d354c
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.unity.properties.ui@1.7.0-preview
+  testable: 0
+  isDirectDependency: 0
+  version: 1.7.0-preview
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.properties.ui@1.7.0-preview
+  assetPath: Packages/com.unity.properties.ui
+  name: com.unity.properties.ui
+  displayName: Properties UI
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Utilities to generate UIElements-based visual trees from types backed
+    by the properties package.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.5
+    - 1.1.0-preview
+    - 1.1.1-preview
+    - 1.2.0-preview
+    - 1.3.0-preview
+    - 1.3.1-preview
+    - 1.4.3-preview
+    - 1.4.4-preview
+    - 1.4.4-preview.1
+    - 1.5.0-preview
+    - 1.5.1-preview
+    - 1.5.1-preview.1
+    - 1.6.0-preview
+    - 1.6.2-preview.1
+    - 1.7.0-preview
+    - 1.7.1-preview
+    - 1.7.2-preview
+    - 1.7.4-preview
+    - 1.7.5-preview
+    - 1.8.2-preview
+    - 1.8.3-preview
+    - 2.0.0-exp.11
+    - 2.0.0-exp.13
+    - 2.1.0-exp.1
+    compatible:
+    - 1.0.0-preview.5
+    - 1.1.0-preview
+    - 1.1.1-preview
+    - 1.2.0-preview
+    - 1.3.0-preview
+    - 1.3.1-preview
+    - 1.4.3-preview
+    - 1.4.4-preview
+    - 1.4.4-preview.1
+    - 1.5.0-preview
+    - 1.5.1-preview
+    - 1.5.1-preview.1
+    - 1.6.0-preview
+    - 1.6.2-preview.1
+    - 1.7.0-preview
+    - 1.7.1-preview
+    - 1.7.2-preview
+    - 1.7.4-preview
+    - 1.7.5-preview
+    - 1.8.2-preview
+    - 1.8.3-preview
+    - 2.0.0-exp.11
+    - 2.0.0-exp.13
+    - 2.1.0-exp.1
+    verified: 
+  dependencies:
+  - name: com.unity.properties
+    version: 1.7.0-preview
+  - name: com.unity.serialization
+    version: 1.7.0-preview.1
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.test-framework.performance
+    version: 2.3.1-preview
+  resolvedDependencies:
+  - name: com.unity.properties
+    version: 1.7.0-preview
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.test-framework.performance
+    version: 2.8.0-preview
+  - name: com.unity.test-framework
+    version: 1.1.31
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.serialization
+    version: 1.7.0-preview.1
+  - name: com.unity.collections
+    version: 1.4.0
+  - name: com.unity.burst
+    version: 1.6.6
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.jobs
+    version: 0.70.0-preview.7
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.uielementsnative
+    version: 1.0.0
+  keywords:
+  - properties
+  - unity
+  - ui
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637504027360000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.properties.git
+    revision: 876499bb46f5a681ecb0e5bc97bb35029d658e75
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.unity.serialization@1.7.0-preview.1
+  testable: 0
+  isDirectDependency: 0
+  version: 1.7.0-preview.1
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.serialization@1.7.0-preview.1
+  assetPath: Packages/com.unity.serialization
+  name: com.unity.serialization
+  displayName: Serialization
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The Serialization package provides a high level API serialization
+    and deserialization.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.2.1-preview
+    - 0.3.0-preview
+    - 0.3.1-preview
+    - 0.4.0-preview
+    - 0.4.1-preview
+    - 0.5.0-preview
+    - 0.5.1-preview
+    - 0.6.0-preview
+    - 0.6.1-preview
+    - 0.6.2-preview
+    - 0.6.3-preview
+    - 0.6.4-preview
+    - 1.0.0-preview.5
+    - 1.1.0-preview
+    - 1.1.1-preview
+    - 1.2.0-preview
+    - 1.3.0-preview
+    - 1.3.1-preview
+    - 1.4.3-preview
+    - 1.5.0-preview
+    - 1.6.0-preview
+    - 1.6.1-preview
+    - 1.6.2-preview
+    - 1.7.0-preview.1
+    - 1.7.1-preview
+    - 1.7.3-preview
+    - 1.7.4-preview
+    - 1.7.5-preview
+    - 1.8.2-preview
+    - 1.8.3-preview
+    - 2.0.0-exp.11
+    - 2.0.0-exp.13
+    - 2.1.0-exp.1
+    compatible:
+    - 0.2.1-preview
+    - 0.3.0-preview
+    - 0.3.1-preview
+    - 0.4.0-preview
+    - 0.4.1-preview
+    - 0.5.0-preview
+    - 0.5.1-preview
+    - 0.6.0-preview
+    - 0.6.1-preview
+    - 0.6.2-preview
+    - 0.6.3-preview
+    - 0.6.4-preview
+    - 1.0.0-preview.5
+    - 1.1.0-preview
+    - 1.1.1-preview
+    - 1.2.0-preview
+    - 1.3.0-preview
+    - 1.3.1-preview
+    - 1.4.3-preview
+    - 1.5.0-preview
+    - 1.6.0-preview
+    - 1.6.1-preview
+    - 1.6.2-preview
+    - 1.7.0-preview.1
+    - 1.7.1-preview
+    - 1.7.3-preview
+    - 1.7.4-preview
+    - 1.7.5-preview
+    - 1.8.2-preview
+    - 1.8.3-preview
+    - 2.0.0-exp.11
+    - 2.0.0-exp.13
+    - 2.1.0-exp.1
+    verified: 
+  dependencies:
+  - name: com.unity.collections
+    version: 0.12.0-preview.13
+  - name: com.unity.burst
+    version: 1.3.5
+  - name: com.unity.jobs
+    version: 0.5.0-preview.14
+  - name: com.unity.properties
+    version: 1.7.0-preview
+  - name: com.unity.test-framework.performance
+    version: 2.3.1-preview
+  resolvedDependencies:
+  - name: com.unity.collections
+    version: 1.4.0
+  - name: com.unity.burst
+    version: 1.6.6
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.test-framework
+    version: 1.1.31
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.jobs
+    version: 0.70.0-preview.7
+  - name: com.unity.properties
+    version: 1.7.0-preview
+  - name: com.unity.test-framework.performance
+    version: 2.8.0-preview
+  keywords:
+  - serialization
+  - dots
+  - json
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637503967390000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.properties.git
+    revision: 876499bb46f5a681ecb0e5bc97bb35029d658e75
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.unity.jobs@0.70.0-preview.7
+  testable: 0
+  isDirectDependency: 0
+  version: 0.70.0-preview.7
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.jobs@0.70.0-preview.7
+  assetPath: Packages/com.unity.jobs
+  name: com.unity.jobs
+  displayName: Jobs
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The Jobs package provides additional job types like IJobParallelForBatch.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.0.7-preview.1
+    - 0.0.7-preview.2
+    - 0.0.7-preview.3
+    - 0.0.7-preview.4
+    - 0.0.7-preview.5
+    - 0.0.7-preview.6
+    - 0.0.7-preview.7
+    - 0.0.7-preview.8
+    - 0.0.7-preview.9
+    - 0.0.7-preview.10
+    - 0.0.7-preview.11
+    - 0.0.7-preview.12
+    - 0.0.7-preview.13
+    - 0.1.0-preview
+    - 0.1.1-preview
+    - 0.2.0-preview.13
+    - 0.2.1-preview.3
+    - 0.2.2-preview.6
+    - 0.2.3-preview.9
+    - 0.2.4-preview.11
+    - 0.2.5-preview.20
+    - 0.2.6-preview.13
+    - 0.2.7-preview.11
+    - 0.2.8-preview.3
+    - 0.2.9-preview.15
+    - 0.2.10-preview.11
+    - 0.2.10-preview.12
+    - 0.2.10-preview.13
+    - 0.4.0-preview.18
+    - 0.5.0-preview.14
+    - 0.7.0-preview.17
+    - 0.8.0-preview.23
+    - 0.11.0-preview.5
+    - 0.11.0-preview.6
+    - 0.50.0-preview.8
+    - 0.50.0-preview.9
+    - 0.51.0-preview.32
+    - 0.70.0-preview.7
+    compatible:
+    - 0.0.7-preview.1
+    - 0.0.7-preview.2
+    - 0.0.7-preview.3
+    - 0.0.7-preview.4
+    - 0.0.7-preview.5
+    - 0.0.7-preview.6
+    - 0.0.7-preview.7
+    - 0.0.7-preview.8
+    - 0.0.7-preview.9
+    - 0.0.7-preview.10
+    - 0.0.7-preview.11
+    - 0.0.7-preview.12
+    - 0.0.7-preview.13
+    - 0.1.0-preview
+    - 0.1.1-preview
+    - 0.2.0-preview.13
+    - 0.2.1-preview.3
+    - 0.2.2-preview.6
+    - 0.2.3-preview.9
+    - 0.2.4-preview.11
+    - 0.2.5-preview.20
+    - 0.2.6-preview.13
+    - 0.2.7-preview.11
+    - 0.2.8-preview.3
+    - 0.2.9-preview.15
+    - 0.2.10-preview.11
+    - 0.2.10-preview.12
+    - 0.2.10-preview.13
+    - 0.4.0-preview.18
+    - 0.5.0-preview.14
+    - 0.7.0-preview.17
+    - 0.8.0-preview.23
+    - 0.11.0-preview.5
+    - 0.11.0-preview.6
+    - 0.50.0-preview.8
+    - 0.50.0-preview.9
+    - 0.51.0-preview.32
+    - 0.70.0-preview.7
+    verified: 
+  dependencies:
+  - name: com.unity.collections
+    version: 1.4.0
+  resolvedDependencies:
+  - name: com.unity.collections
+    version: 1.4.0
+  - name: com.unity.burst
+    version: 1.6.6
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.test-framework
+    version: 1.1.31
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords:
+  - dots
+  - jobs
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637950498530000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/dots.git
+    revision: 063a98897b40805f53b859bb426ce664229d0c00
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.unity.scriptablebuildpipeline@1.20.1
+  testable: 0
+  isDirectDependency: 0
+  version: 1.20.1
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.scriptablebuildpipeline@1.20.1
+  assetPath: Packages/com.unity.scriptablebuildpipeline
+  name: com.unity.scriptablebuildpipeline
+  displayName: Scriptable Build Pipeline
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The Scriptable Build Pipeline moves the asset bundle build pipeline
+    to C#.  Use the pre-defined build flows, or create your own using the divided
+    up APIs.  This system improves build time, fixes incremental build, and provides
+    greater flexibility.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.0.5-preview
+    - 0.0.6-preview
+    - 0.0.8-preview
+    - 0.0.9-preview
+    - 0.0.10-preview
+    - 0.0.14-preview
+    - 0.0.15-preview
+    - 0.1.0-preview
+    - 0.2.0-preview
+    - 1.0.1-preview
+    - 1.1.0-preview
+    - 1.1.1-preview
+    - 1.2.1-preview
+    - 1.3.5-preview
+    - 1.4.1-preview
+    - 1.5.0-preview
+    - 1.5.1
+    - 1.5.2
+    - 1.5.4
+    - 1.5.6
+    - 1.5.10
+    - 1.6.3-preview
+    - 1.6.4-preview
+    - 1.6.5-preview
+    - 1.7.2
+    - 1.7.3
+    - 1.8.2
+    - 1.8.4
+    - 1.8.6
+    - 1.9.0
+    - 1.10.0
+    - 1.11.1
+    - 1.11.2
+    - 1.12.0
+    - 1.13.1
+    - 1.14.0
+    - 1.14.1
+    - 1.15.1
+    - 1.15.2
+    - 1.16.1
+    - 1.17.0
+    - 1.18.0
+    - 1.19.0
+    - 1.19.1
+    - 1.19.2
+    - 1.19.3
+    - 1.19.4
+    - 1.19.5
+    - 1.19.6
+    - 1.20.1
+    - 1.20.2
+    compatible:
+    - 1.20.1
+    - 1.20.2
+    verified: 1.20.2
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - build
+  - bundle
+  - bundles
+  - assetbundles
+  - cache
+  - server
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637874640850000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/Addressables.git
+    revision: f2d9aac4eb254f268ff4e23f800ccc30c53dbd75
+    path: 
+  unityLifecycle:
+    version: 1.20.1
+    nextVersion: 
+- packageId: com.unity.platforms@0.51.1-preview.21
+  testable: 0
+  isDirectDependency: 0
+  version: 0.51.1-preview.21
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.platforms@0.51.1-preview.21
+  assetPath: Packages/com.unity.platforms
+  name: com.unity.platforms
+  displayName: Platforms
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Provides platform and build API foundation used by other platform
+    packages.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.1.3-preview
+    - 0.1.4-preview
+    - 0.1.5-preview
+    - 0.1.6-preview
+    - 0.1.7-preview.3
+    - 0.1.8-preview.1
+    - 0.2.0-preview
+    - 0.2.0-preview.2
+    - 0.2.1-preview
+    - 0.2.1-preview.1
+    - 0.2.1-preview.2
+    - 0.2.1-preview.3
+    - 0.2.1-preview.4
+    - 0.2.1-preview.5
+    - 0.2.1-preview.6
+    - 0.2.1-preview.7
+    - 0.2.1-preview.8
+    - 0.2.2-preview
+    - 0.2.2-preview.1
+    - 0.2.2-preview.2
+    - 0.2.2-preview.3
+    - 0.2.2-preview.4
+    - 0.2.2-preview.5
+    - 0.2.2-preview.6
+    - 0.2.2-preview.7
+    - 0.2.2-preview.8
+    - 0.2.2-preview.9
+    - 0.2.2-preview.10
+    - 0.3.0-preview
+    - 0.3.0-preview.1
+    - 0.3.0-preview.2
+    - 0.3.0-preview.3
+    - 0.3.0-preview.4
+    - 0.4.0-preview.1
+    - 0.4.0-preview.2
+    - 0.4.0-preview.3
+    - 0.4.0-preview.4
+    - 0.4.0-preview.5
+    - 0.5.0-preview.1
+    - 0.5.0-preview.2
+    - 0.5.0-preview.3
+    - 0.5.0-preview.4
+    - 0.5.0-preview.5
+    - 0.5.0-preview.6
+    - 0.5.0-preview.7
+    - 0.6.0-preview.1
+    - 0.6.0-preview.2
+    - 0.6.0-preview.3
+    - 0.6.0-preview.4
+    - 0.6.0-preview.5
+    - 0.7.0-preview.2
+    - 0.7.0-preview.3
+    - 0.7.0-preview.4
+    - 0.7.0-preview.6
+    - 0.7.0-preview.7
+    - 0.7.0-preview.8
+    - 0.7.0-preview.9
+    - 0.7.0-preview.10
+    - 0.8.0-preview.1
+    - 0.8.0-preview.2
+    - 0.8.0-preview.3
+    - 0.8.0-preview.4
+    - 0.8.0-preview.5
+    - 0.8.0-preview.6
+    - 0.8.0-preview.7
+    - 0.9.0-preview.9
+    - 0.10.0-preview.10
+    - 0.50.0-preview.4
+    - 0.51.0-preview.31
+    - 0.51.1-preview.21
+    compatible:
+    - 0.1.3-preview
+    - 0.1.4-preview
+    - 0.1.5-preview
+    - 0.1.6-preview
+    - 0.1.7-preview.3
+    - 0.1.8-preview.1
+    - 0.2.0-preview
+    - 0.2.0-preview.2
+    - 0.2.1-preview
+    - 0.2.1-preview.1
+    - 0.2.1-preview.2
+    - 0.2.1-preview.3
+    - 0.2.1-preview.4
+    - 0.2.1-preview.5
+    - 0.2.1-preview.6
+    - 0.2.1-preview.7
+    - 0.2.1-preview.8
+    - 0.2.2-preview
+    - 0.2.2-preview.1
+    - 0.2.2-preview.2
+    - 0.2.2-preview.3
+    - 0.2.2-preview.4
+    - 0.2.2-preview.5
+    - 0.2.2-preview.6
+    - 0.2.2-preview.7
+    - 0.2.2-preview.8
+    - 0.2.2-preview.9
+    - 0.2.2-preview.10
+    - 0.3.0-preview
+    - 0.3.0-preview.1
+    - 0.3.0-preview.2
+    - 0.3.0-preview.3
+    - 0.3.0-preview.4
+    - 0.4.0-preview.1
+    - 0.4.0-preview.2
+    - 0.4.0-preview.3
+    - 0.4.0-preview.4
+    - 0.4.0-preview.5
+    - 0.5.0-preview.1
+    - 0.5.0-preview.2
+    - 0.5.0-preview.3
+    - 0.5.0-preview.4
+    - 0.5.0-preview.5
+    - 0.5.0-preview.6
+    - 0.5.0-preview.7
+    - 0.6.0-preview.1
+    - 0.6.0-preview.2
+    - 0.6.0-preview.3
+    - 0.6.0-preview.4
+    - 0.6.0-preview.5
+    - 0.7.0-preview.2
+    - 0.7.0-preview.3
+    - 0.7.0-preview.4
+    - 0.7.0-preview.6
+    - 0.7.0-preview.7
+    - 0.7.0-preview.8
+    - 0.7.0-preview.9
+    - 0.7.0-preview.10
+    - 0.8.0-preview.1
+    - 0.8.0-preview.2
+    - 0.8.0-preview.3
+    - 0.8.0-preview.4
+    - 0.8.0-preview.5
+    - 0.8.0-preview.6
+    - 0.8.0-preview.7
+    - 0.9.0-preview.9
+    - 0.10.0-preview.10
+    - 0.50.0-preview.4
+    - 0.51.0-preview.31
+    - 0.51.1-preview.21
+    verified: 
+  dependencies:
+  - name: com.unity.properties
+    version: 1.7.0-preview
+  - name: com.unity.properties.ui
+    version: 1.7.0-preview
+  - name: com.unity.scriptablebuildpipeline
+    version: 1.19.2
+  - name: com.unity.serialization
+    version: 1.7.0-preview.1
+  resolvedDependencies:
+  - name: com.unity.properties
+    version: 1.7.0-preview
+  - name: com.unity.nuget.mono-cecil
+    version: 1.11.4
+  - name: com.unity.test-framework.performance
+    version: 2.8.0-preview
+  - name: com.unity.test-framework
+    version: 1.1.31
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.properties.ui
+    version: 1.7.0-preview
+  - name: com.unity.serialization
+    version: 1.7.0-preview.1
+  - name: com.unity.collections
+    version: 1.4.0
+  - name: com.unity.burst
+    version: 1.6.6
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.jobs
+    version: 0.70.0-preview.7
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.uielementsnative
+    version: 1.0.0
+  - name: com.unity.scriptablebuildpipeline
+    version: 1.20.1
+  keywords:
+  - platform
+  - build
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637950498550000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/dots.git
+    revision: 063a98897b40805f53b859bb426ce664229d0c00
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.unity.roslyn@0.2.2-preview
+  testable: 0
+  isDirectDependency: 0
+  version: 0.2.2-preview
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.roslyn@0.2.2-preview
+  assetPath: Packages/com.unity.roslyn
+  name: com.unity.roslyn
+  displayName: Roslyn Compiler for Unity
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: 'Version of Microsoft Roslyn compiler distributed as package.
+
+
+    Enables
+    use of Roslyn source generators for code generation.'
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.0.3-preview
+    - 0.1.1-preview
+    - 0.1.2-preview
+    - 0.1.3-preview
+    - 0.2.1-preview
+    - 0.2.2-preview
+    compatible:
+    - 0.0.3-preview
+    - 0.1.1-preview
+    - 0.1.2-preview
+    - 0.1.3-preview
+    - 0.2.1-preview
+    - 0.2.2-preview
+    verified: 
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - codegen
+  - unity
+  - roslyn
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637847566260000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/Unity.Roslyn.git
+    revision: c6ed73b7aa4d677cc5d6d2bd6511faf172b6f380
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.unity.profiling.core@1.0.2
+  testable: 0
+  isDirectDependency: 0
+  version: 1.0.2
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.profiling.core@1.0.2
+  assetPath: Packages/com.unity.profiling.core
+  name: com.unity.profiling.core
+  displayName: Unity Profiling Core API
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The Unity Profiling Core package provides an API for code instrumentation
+    markup, and for profiling statistic collection.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.1.0-preview.1
+    - 0.2.0-preview.1
+    - 0.2.1-preview.1
+    - 1.0.0-pre.1
+    - 1.0.0
+    - 1.0.2
+    compatible:
+    - 1.0.2
+    verified: 1.0.2
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - profiler
+  - profiling
+  - api
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637828752310000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/profiler.git
+    revision: 2189ba14439d76a4083f59fae87163b4bdfd49c2
+    path: 
+  unityLifecycle:
+    version: 1.0.2
     nextVersion: 
 - packageId: com.unity.services.core@1.4.0
   testable: 0
@@ -3183,6 +6519,210 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.4.0
+    nextVersion: 
+- packageId: com.unity.searcher@4.9.1
+  testable: 0
+  isDirectDependency: 0
+  version: 4.9.1
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.searcher@4.9.1
+  assetPath: Packages/com.unity.searcher
+  name: com.unity.searcher
+  displayName: Searcher
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: General search window for use in the Editor. First target use is for
+    GraphView node search.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 4.0.0-preview
+    - 4.0.0
+    - 4.0.7-preview
+    - 4.0.7
+    - 4.0.8-preview
+    - 4.0.9
+    - 4.1.0-preview
+    - 4.1.0
+    - 4.2.0
+    - 4.3.0
+    - 4.3.1
+    - 4.3.2
+    - 4.6.0-preview
+    - 4.7.0-preview
+    - 4.9.1
+    - 4.9.2
+    compatible:
+    - 4.9.1
+    - 4.9.2
+    verified: 4.9.2
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - search
+  - searcher
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637695653650000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.searcher.git
+    revision: 9e68a2a9ba29bd6783bc91d15ff82bbd459f2163
+    path: 
+  unityLifecycle:
+    version: 4.9.1
+    nextVersion: 
+- packageId: com.unity.nuget.mono-cecil@1.11.4
+  testable: 0
+  isDirectDependency: 0
+  version: 1.11.4
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.unity.nuget.mono-cecil@1.11.4
+  assetPath: Packages/com.unity.nuget.mono-cecil
+  name: com.unity.nuget.mono-cecil
+  displayName: Mono Cecil
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: 'The mono cecil library from https://www.nuget.org/packages/Mono.Cecil/
+
+
+    This
+    package is intended for internal Unity use only. Most Unity users will be better
+    suite using the existing community tooling.
+
+    To avoid assembly clashes, please
+    use this package if you intend to use Mono.Cecil.'
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.1.6-preview.2
+    - 1.0.0-preview.1
+    - 1.10.0-preview.1
+    - 1.10.1-preview.1
+    - 1.10.1
+    - 1.10.2
+    - 1.11.4
+    compatible:
+    - 1.10.1
+    - 1.10.2
+    - 1.11.4
+    verified: 1.10.2
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637852971930000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.mono-cecil.git
+    revision: d0133ce672d724694b56bfd20672acf6f8737fec
+    path: 
+  unityLifecycle:
+    version: 1.10.1
+    nextVersion: 
+- packageId: com.autodesk.fbx@4.1.1
+  testable: 0
+  isDirectDependency: 0
+  version: 4.1.1
+  source: 1
+  resolvedPath: C:\Users\khaya\OneDrive - University of Witwatersrand\Desktop\LONG_PROJECT\Age
+    of Caesar\Library\PackageCache\com.autodesk.fbx@4.1.1
+  assetPath: Packages/com.autodesk.fbx
+  name: com.autodesk.fbx
+  displayName: Autodesk FBX SDK for Unity
+  author:
+    name: Unity
+    email: 
+    url: 
+  category: 
+  type: 
+  description: "This package provides Unity C# bindings to the Autodesk\xAE FBX\xAE
+    SDK."
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 2.0.0-preview
+    - 2.0.0-preview.4
+    - 2.0.0-preview.5
+    - 2.0.0-preview.6
+    - 2.0.0-preview.7
+    - 2.0.1-preview.1
+    - 3.0.0-preview.1
+    - 3.0.1-preview.1
+    - 3.1.0-preview.1
+    - 3.1.0-preview.2
+    - 4.0.0-pre.1
+    - 4.0.0-pre.2
+    - 4.0.1
+    - 4.1.0-pre.1
+    - 4.1.0
+    - 4.1.1
+    - 4.2.0-pre.1
+    - 4.2.0
+    compatible:
+    - 4.1.1
+    - 4.2.0-pre.1
+    - 4.2.0
+    verified: 4.1.1
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - fbx
+  - animation
+  - modeling
+  - maya
+  - max
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637668642230000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: git+https://github.com/Unity-Technologies/com.autodesk.fbx.git
+    revision: b6cd1211ff8824752e3dcbf05f426bac266606a0
+    path: 
+  unityLifecycle:
+    version: 4.1.1
     nextVersion: 
 - packageId: com.unity.settings-manager@1.0.3
   testable: 0
